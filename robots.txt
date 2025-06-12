@@ -1,6 +1,8 @@
 User-agent: *
 Disallow:
-Sitemap: https://matbet844.vip/sitemap.xml
+Sitemap: https://casibom810.vercel.app/sitemap.xml
+Sitemap: https://casibom810com.vercel.app/sitemap.xml
+Sitemap: https://casibomgiris810.vercel.app/sitemap.xml
 Crawl-delay: 5
 # Belirli dosyaların indekslenmesine izin
 Allow: /images/
